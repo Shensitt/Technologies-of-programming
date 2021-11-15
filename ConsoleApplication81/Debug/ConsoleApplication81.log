@@ -1,0 +1,6 @@
+﻿  ConsoleApplication81.cpp
+E:\projectsTOP\ConsoleApplication81\ConsoleApplication81.cpp(16,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\projectsTOP\ConsoleApplication81\ConsoleApplication81.cpp(33,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\projectsTOP\ConsoleApplication81\ConsoleApplication81.cpp(41,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\projectsTOP\ConsoleApplication81\ConsoleApplication81.cpp(48,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication81.vcxproj -> E:\projectsTOP\ConsoleApplication81\Debug\ConsoleApplication81.exe
