@@ -1,0 +1,9 @@
+A programming language is a formal language comprising a set of strings that produce various kinds of machine code output.
+Programming languages are one kind of computer language, and are used in computer programming to implement algorithms.
+Most programming languages consist of instructions for computers.
+There are programmable machines that use a set of specific instructions, rather than general programming languages.
+Thousands of different programming languages have been created, and more are being created every year.
+Many programming languages are written in an imperative form (i.e., as a sequence of operations to perform)
+The description of a programming language is usually split into the two components of syntax (form)
+(for example, the C programming language is specified by an ISO Standard) while
+implementation, analysis, characterization, and classification of programming languages.
