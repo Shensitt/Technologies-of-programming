@@ -1,0 +1,13 @@
+Android is designed to run on many different types of devices, from phones to tablets and televisions.
+As a developer, the range of devices provides a huge potential audience for your app.
+In order for your app to be successful on all these devices, it should tolerate some feature variability and provide a
+flexible user interface that adapts to different screen configurations.
+To facilitate your effort toward that goal, Android provides a dynamic app framework in which you can provide
+configuration-specific app resources in static files (such as different XML layouts for different screen sizes).
+Android then loads the appropriate resources based on the current device configuration.
+So with some forethought to your app design and some additional app resources, you can publish a single application package
+(APK) that provides an optimized user experience on a variety of devices.
+If necessary, however, you can specify your app's feature requirements and control which types of
+devices can install your app from Google Play Store. This page explains how you can control which devices have
+access to your apps, and how to prepare your apps to make sure they reach the right audience. For more information
+about how you can make your app adapt to different devices, read Supporting Different Devices.

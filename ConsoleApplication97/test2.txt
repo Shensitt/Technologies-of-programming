@@ -1,0 +1,4 @@
+Android is designed to run on many different types of devices, from phones to tablets and televisions.
+As a developer, the range of devices provides a huge potential audience for your app.
+In order for your app to be successful on all these devices, it should tolerate some feature variability and provide a
+flexible user interface that adapts to different screen configurations.
